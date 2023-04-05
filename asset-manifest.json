@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Hidust.mia/static/css/main.dd44f1cb.css",
+    "main.js": "/Hidust.mia/static/js/main.abe94a49.js",
+    "static/js/787.e33a93f9.chunk.js": "/Hidust.mia/static/js/787.e33a93f9.chunk.js",
+    "static/media/Mask.png": "/Hidust.mia/static/media/Mask.be5f7c75bf34e9c53a6f.png",
+    "static/media/pm25.png": "/Hidust.mia/static/media/pm25.a053e853d42983f06eed.png",
+    "static/media/pm10.png": "/Hidust.mia/static/media/pm10.231322782b76c431e63c.png",
+    "static/media/men.png": "/Hidust.mia/static/media/men.d477f97e56237f03f0df.png",
+    "static/media/women.png": "/Hidust.mia/static/media/women.72f7308b86bbd530c6fe.png",
+    "static/media/eye.png": "/Hidust.mia/static/media/eye.8c2e51e5e3f18e8209af.png",
+    "static/media/Sick.png": "/Hidust.mia/static/media/Sick.a6bdf651e08026340c1f.png",
+    "static/media/lung.png": "/Hidust.mia/static/media/lung.8202d7ca82c5a6ed52fe.png",
+    "static/media/forest2.svg": "/Hidust.mia/static/media/forest2.057da4b0afec3e4fd9ddacd92d73628b.svg",
+    "static/media/car.svg": "/Hidust.mia/static/media/car.7939befa14d9c25122dea69fe0ceb57f.svg",
+    "static/media/forest.svg": "/Hidust.mia/static/media/forest.72d7ce1961d183bbe17c2c349936b903.svg",
+    "static/media/Noneimg.svg": "/Hidust.mia/static/media/Noneimg.7a8cdab59a6b072d2ec34adc68ab0b13.svg",
+    "static/media/fogi.svg": "/Hidust.mia/static/media/fogi.9f89afa417eddb53ef3f2382a59edf54.svg",
+    "static/media/Factory.svg": "/Hidust.mia/static/media/Factory.43f02f77a87c14adc887bc73d971ab88.svg",
+    "static/media/cloudy.svg": "/Hidust.mia/static/media/cloudy.e624d743ca55fe444d80d6469768a925.svg",
+    "static/media/em.svg": "/Hidust.mia/static/media/em.41f8a23b88348a2fb4eb8099d7f43cef.svg",
+    "static/media/SoBad.svg": "/Hidust.mia/static/media/SoBad.5b9c21ba67b431030883a219ea00a7c1.svg",
+    "static/media/Bad.svg": "/Hidust.mia/static/media/Bad.977016be6c640243660eaba7f74b5d00.svg",
+    "index.html": "/Hidust.mia/index.html",
+    "static/media/good.svg": "/Hidust.mia/static/media/good.1a3b633205ea5c3c70f9dfd87c5b3499.svg",
+    "static/media/nomal.svg": "/Hidust.mia/static/media/nomal.0992ceecc45c2c9d9eede11f0a465651.svg",
+    "static/media/none.svg": "/Hidust.mia/static/media/none.be32cb9ea8198f4591e3f5ecfe3304c5.svg",
+    "main.dd44f1cb.css.map": "/Hidust.mia/static/css/main.dd44f1cb.css.map",
+    "main.abe94a49.js.map": "/Hidust.mia/static/js/main.abe94a49.js.map",
+    "787.e33a93f9.chunk.js.map": "/Hidust.mia/static/js/787.e33a93f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd44f1cb.css",
+    "static/js/main.abe94a49.js"
+  ]
+}

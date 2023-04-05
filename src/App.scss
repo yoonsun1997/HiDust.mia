@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+$nav-color: #474645;
+$font-color: #fff;
+
+.App, .gnbWrap{
+    font-family: "NotoSansKR";
+}
+
+.nav{
+    background-color: $nav-color;
+    color: $font-color;
+    width: 100%;
+    height: 45px;
+    position: relative;
+    z-index: 101;
+    filter: drop-shadow(2px 2px 2px rgb(56, 56, 56));
+}
+
+.navWarp{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: $font-color;
+    height: 26px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.cloud{
+    font-size: 2rem;
+    margin-left:30px;
+}
+.Title{
+    font-size: 1.2rem;
+}
+
+.util {
+    float: right;
+    margin: 10px 30px 10px 0;
+    font-size: 1.1rem;
+}
+
+// header setting
+
+.gndNav{
+    display: flex;
+    gap: 10px;
+    height: 30px;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #d2d2d2;
+}
+
+.QnA{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: absolute;
+    right: 35px;
+    font-weight: 600;
+    color: #474645;
+}
+
+.Why{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: absolute;
+    right: 220px;
+    font-weight: 600;
+    color: #474645;
+}
+
+.Do{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: absolute;
+    right: 410px;
+    font-weight: 600;
+    color: #474645;
+}
+
+.Table{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: absolute;
+    right: 610px;
+    font-weight: 600;
+    color: #474645;
+}
+
+.a{
+    font-weight: bold;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+@keyframes blinkEffect{
+    50%{
+        opacity: 70%;
+    }
+}
+
+a{
+    &:hover{
+        color:rgb(68, 79, 131);
+        animation: blinkEffect .5s;
+    }
+    &:focus{
+        color: rgb(244, 71, 8);
+    }
+    &:active{
+        color: rgb(244, 71, 8);
+    }
+}
+
+.Hr{
+    background-color: #6d6d6d;
+    height: .3px;
+}

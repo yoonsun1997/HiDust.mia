@@ -1,0 +1,47 @@
+.Guide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  margin-left: 15px;
+}
+
+.GuideTitle {
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-align: center;
+  margin: auto;
+  color: #08479e;
+  margin-left: 140px;
+  text-shadow: 1px 1px 1px rgb(204, 204, 204);
+}
+
+.Guide > h1:nth-child(2) {
+  font-size: 1.5rem;
+  margin: 5px 0 5px 0;
+}
+
+.Guide h1 > span {
+  color: #FF000A;
+  font-weight: bold;
+}
+
+.Guide > h1:nth-child(3) {
+  font-size: 1.2rem;
+}
+
+.GuideStandrad {
+  font-size: 1rem;
+  margin-top: 5px;
+}
+
+.GuideLast {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.Cloudy {
+  width: 130px;
+  height: 130px;
+}

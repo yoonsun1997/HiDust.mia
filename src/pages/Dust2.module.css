@@ -1,0 +1,75 @@
+.dustSection {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  height: 830px;
+  gap: 80px;
+}
+
+.mainLeft {
+  display: flex;
+}
+
+.dustMap {
+  border: 3px #e9e9e9 solid;
+  background-color: #fdfdfd;
+  width: 700px;
+  flex: 1;
+  padding: 5px;
+}
+
+.upTitle {
+  background-color: #598aec;
+  font-weight: bold;
+  color: #FFF;
+  text-shadow: 1px 1px 3px gray;
+  padding: 7px;
+  position: relative;
+  top: 7px;
+  box-shadow: 1px 2px 3px gray;
+}
+
+.svg {
+  fill: "gray";
+  margin-top: 5px;
+}
+
+.mainRight {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+
+.setTime {
+  width: 580px;
+  text-align: right;
+  font-size: 1rem;
+  margin: 0 5px 0 0;
+}
+
+.dustState {
+  width: 580px;
+  height: 340px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.7019607843);
+  padding: 5px;
+}
+
+.dustStandard {
+  width: 580px;
+  height: 200px;
+  box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.7019607843);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding: 10px 5px;
+}
+
+.dustBoard {
+  width: 580px;
+  height: 190px;
+  padding: 5px;
+  box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.7019607843);
+}

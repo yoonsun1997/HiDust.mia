@@ -1,0 +1,40 @@
+.Guide{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 35px;
+    margin-left: 15px;
+}
+.GuideTitle{
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-align:center;
+    margin: auto;
+    color: #08479e;
+    margin-left: 140px;
+    text-shadow: 1px 1px 1px rgb(204, 204, 204);
+}
+
+.GuideDetail{
+    font-size: 1.5rem;
+}
+
+.GuideSpan{
+    color: #007FFF;
+    font-weight: bold;
+}
+
+.Guide >h1:nth-child(3){
+    font-size: 1.2rem;
+}
+
+.GuideLast{
+    font-size: 1rem;
+    color: #007FFF;
+    font-weight: bold;
+}
+
+.Forest{
+    margin-right: 15px;
+    margin-left: 10px;
+}

@@ -1,0 +1,47 @@
+.Guide{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    margin-left: 15px;
+}
+
+.GuideTitle{
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-align:center;
+    margin: auto;
+    color: #08479e;
+    margin-left: 140px;
+    text-shadow: 1px 1px 1px rgb(204, 204, 204);
+}
+
+.GuideDetail{
+    font-size: 1.5rem;
+}
+
+.stat1234{
+    color: #009000;
+    font-weight: bold;
+}
+
+.GuideDetailTitle{
+    font-size: 1.1rem;
+    color:  #009000;
+    font-weight: bold;
+}
+
+.GuideStandard{
+    font-size: .9rem;
+    font-weight: bold;
+    color: gray;
+}
+
+.Forest2{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+.tt{
+    font-size: 1rem;
+}

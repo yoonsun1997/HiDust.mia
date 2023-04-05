@@ -1,0 +1,40 @@
+$hover_color : rgb(74, 143, 198);
+
+.g{
+    filter: drop-shadow(2px 2px 2px gray);
+}
+.OUTLINE {
+    stroke-linejoin:round;
+    stroke: #ffffff;
+    stroke-width: 1;
+}
+#CD11,#CD26,#CD27,#CD28,#CD29,#CD30,
+#CD31,#CD36,#CD41,#CD42,#CD43,#CD44,
+#CD45,#CD46,#CD47,#CD48,#CD50{
+    fill: rgb(197, 197, 197);
+}
+#CD11,#CD26,#CD27,#CD28,#CD29,#CD30,
+#CD31,#CD36,#CD41,#CD42,#CD43,#CD44,
+#CD45,#CD46,#CD47,#CD48,#CD50 {
+    &:hover {
+        fill: $hover_color;
+    }
+    &:active{
+        fill: $hover_color;
+    }
+}
+
+.TEXT {
+    fill: #ffffff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-anchor: middle;
+    text-align: center;
+    text-shadow: 1px 2px 1px rgb(0, 0, 0);
+}
+
+
+#CD50{
+    outline: 1px gray solid;
+    outline-offset: 30px;
+}

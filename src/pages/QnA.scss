@@ -1,0 +1,82 @@
+.section{
+    display: flex;
+    height: 830px;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 9px;
+    margin: 50px;
+}
+
+.Cloud{
+    margin-left: 250px;
+}
+
+.pm{
+    position: absolute;
+    top: 340px;
+    right: 130px;
+    font-weight: bold;
+    color:rgb(68, 69, 70);
+}
+
+.pm2{
+    position: absolute;
+    top: 600px;
+    right: 130px;
+    font-weight: bold;
+    color: rgb(68, 69, 70);
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #08479e;
+    text-shadow: 1px 1px rgb(163, 163, 163);
+}
+
+.Dot{
+    margin-right: 10px;
+    color: #08479e;
+    text-shadow: 1px 1px rgb(163, 163, 163);
+}
+
+.h1{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: rgb(57, 57, 57);
+    text-shadow: 1px 1px 1px rgb(163, 163, 163);
+}
+
+.p{
+    font-size: 1.2rem;
+    color: rgb(76, 76, 76);
+}
+
+.right{
+    display: flex;
+}
+
+.img01{
+    width: 400px;
+    height: 400px;
+    margin-top: 180px;
+}
+
+.img02{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+}
+
+.img03{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 160px;
+    margin-top: 500px;
+}

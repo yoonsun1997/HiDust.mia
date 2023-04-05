@@ -1,0 +1,32 @@
+.viewport{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: #ffffffb7;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes upAnddown{
+    0% {transform: translateY(0%);}
+	50% {transform: translateY(-20%);}
+	100% {transform: translateY(0%);}
+}
+
+.cloud{
+    color: rgb(184, 186, 186);
+    filter: drop-shadow(1px 1px 1px gray);
+    width: 100px;
+    height: 100px;
+}
+
+.LoadingText{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgb(157, 157, 157);
+}

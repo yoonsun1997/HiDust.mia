@@ -1,0 +1,71 @@
+.DustStateSection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.Title{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #08479e;
+    text-shadow: 1px 1px 1px rgb(188, 188, 188);
+}
+
+.State{
+    color: #606060;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.DustStateSectionTitle{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.DustStateSectionTitle1{
+    display: flex;
+    gap: 38px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.BadAmount{
+    color: #606060;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.SubTitle{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center
+}
+
+.last{
+    font-weight: bold;
+    margin-top: 10px;
+    color: #313131;
+}
+
+.h2{
+    font-weight: bold;
+    color: #424343;
+}
+
+.warning{
+    font-size: .9rem;
+    color: #757575;
+    font-weight: bold;
+}
+
+.ev{
+    font-weight: bolder;
+}

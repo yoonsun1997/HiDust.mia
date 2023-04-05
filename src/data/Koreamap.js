@@ -13,7 +13,7 @@ const Korea = ({mutateArea, area, mutateNotice, notice}) => {
     //     console.log(error)
     // });
 
-    const apiPrefix = "http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/";
+    const apiPrefix = "https://apis.data.go.kr/B552584/ArpltnInforInqireSvc/";
     const apiSuffix = {
         dustInfo : "getCtprvnRltmMesureDnsty?",
         noticeInfo : "getMinuDustFrcstDspth?"

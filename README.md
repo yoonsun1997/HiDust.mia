@@ -19,10 +19,10 @@
 ##### Hi Dust는 Open API로 측정값을 데이터로 가지고와 화면에 출력합니다. 이는 검증과 인증을 받지 않는 실시간자료 이므로 자료오류 및 표출방식에 따라 값이 다를 수 있다는 점을 하단에 명시하였습니다.
 
 <p align = center>
-  <img src = "https://user-images.githubusercontent.com/115243471/230121023-d70c90d6-fbf7-4f69-bab0-4d365bb47e16.png" width="50%">
-  <img src = "https://user-images.githubusercontent.com/115243471/230121386-291129d0-cc3c-428b-804f-ae889bc7b0be.png" width="50%">
-  <img src = "https://user-images.githubusercontent.com/115243471/230361072-64a931b1-2321-41e2-ae8d-43b50114aa41.png" width="50%">
-  <img src = "https://user-images.githubusercontent.com/115243471/230361219-39a2cd8e-e173-4c80-8cb6-52686044ac05.png" width="50%">
+  <img src = "https://user-images.githubusercontent.com/115243471/230121023-d70c90d6-fbf7-4f69-bab0-4d365bb47e16.png" width=400px>
+  <img src = "https://user-images.githubusercontent.com/115243471/230121386-291129d0-cc3c-428b-804f-ae889bc7b0be.png" width=400px>
+  <img src = "https://user-images.githubusercontent.com/115243471/230361072-64a931b1-2321-41e2-ae8d-43b50114aa41.png" width=400px>
+  <img src = "https://user-images.githubusercontent.com/115243471/230361219-39a2cd8e-e173-4c80-8cb6-52686044ac05.png" width=400px>
 </p>
 
 > Hi Dust는 미세먼지 행동요령을 미세먼지 측정 등급에 맞게 출력되도록 구현하였습니다.
@@ -30,19 +30,19 @@
 ##### 해당 행동요령은 _대기환경보전법_ _시행규칙_ _[별표7]_ _대기오염경보단계별_ _대기오염물질의_ _농도기준(제14조 관련)_ 에 의거하였음을 알려드립니다.
 
 <p align = center>
-  <img src="https://user-images.githubusercontent.com/115243471/230362591-3ea65f93-025e-4f0f-b899-1a955266b0d2.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/115243471/230362512-aaafaedb-6951-4a40-8dc2-13ac86a729f9.png" width="50%">
-  <img src= "https://user-images.githubusercontent.com/115243471/230362316-c1c5e754-dfa9-407d-aea5-27da0ad4286b.png" width="50%">
-  <img src= "https://user-images.githubusercontent.com/115243471/230362160-2177823c-5be1-4922-98ad-32a6e0b57889.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/115243471/230362591-3ea65f93-025e-4f0f-b899-1a955266b0d2.png" width=400px>
+  <img src="https://user-images.githubusercontent.com/115243471/230362512-aaafaedb-6951-4a40-8dc2-13ac86a729f9.png" width=400px>
+  <img src= "https://user-images.githubusercontent.com/115243471/230362316-c1c5e754-dfa9-407d-aea5-27da0ad4286b.png" width=400px>
+  <img src= "https://user-images.githubusercontent.com/115243471/230362160-2177823c-5be1-4922-98ad-32a6e0b57889.png" width=400px>
 </p>
 
 ##### 사용자가 미세먼지에 관련한 **예보기준, 행동요령...** 등에 대한 정보를 얻을 수 있도록 섹션을 추가하여 구현하였습니다. 
 
 <p align = center>
-  <img src="https://user-images.githubusercontent.com/115243471/230372361-81e8fd4c-2f1b-4de6-a888-b023a6e6c1a2.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/115243471/230372424-11e17bc9-543b-4c18-be22-9185cc7e1865.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/115243471/230372620-2753369f-2eb6-4b96-bf61-e194f5a7e8e9.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/115243471/230372671-77647ef9-c459-4b51-b20c-e15fef0b72b4.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/115243471/230372361-81e8fd4c-2f1b-4de6-a888-b023a6e6c1a2.png" width=400px>
+  <img src="https://user-images.githubusercontent.com/115243471/230372424-11e17bc9-543b-4c18-be22-9185cc7e1865.png" width=400px>
+  <img src="https://user-images.githubusercontent.com/115243471/230372620-2753369f-2eb6-4b96-bf61-e194f5a7e8e9.png" width=400px>
+  <img src="https://user-images.githubusercontent.com/115243471/230372671-77647ef9-c459-4b51-b20c-e15fef0b72b4.png" width=400px>
 </p>
 
 > Hi Dust는 대기정보 예보, 경보의 정보의 구역을 구현하였습니다.
@@ -76,4 +76,3 @@
 2. 제공하는 자료는 “인증을 받지 않은 실시간자료”이므로 자료 오류 및 표출방식에 따라 값이 다를 수 있음을 명시하였음.
 
 3. API 이용시 준수사항 및 공공정보활용약관 등 관련법에 명시된 내용은 자료 활용시에 준수하여함에 동의하였음. 
-

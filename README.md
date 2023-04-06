@@ -67,7 +67,7 @@
 > 사용된 기술스택과 API
 - React.js
 - JavaScript
-- Sass
+- SCSS
 - HTML5
 - CSS3
 - 한국환경공단_에어코리아_대기오염정보(https://www.data.go.kr/data/15073861/openapi.do)

@@ -38,6 +38,13 @@
 
 ##### 사용자가 미세먼지에 관련한 **예보기준, 행동요령...** 등에 대한 정보를 얻을 수 있도록 섹션을 추가하여 구현하였습니다. 
 
+<p align = center>
+  <img src="https://user-images.githubusercontent.com/115243471/230372361-81e8fd4c-2f1b-4de6-a888-b023a6e6c1a2.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/115243471/230372424-11e17bc9-543b-4c18-be22-9185cc7e1865.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/115243471/230372620-2753369f-2eb6-4b96-bf61-e194f5a7e8e9.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/115243471/230372671-77647ef9-c459-4b51-b20c-e15fef0b72b4.png" width="50%">
+</p>
+
 > Hi Dust는 대기정보 예보, 경보의 정보의 구역을 구현하였습니다.
 (오늘예보, 내일예보)
 
@@ -69,3 +76,4 @@
 2. 제공하는 자료는 “인증을 받지 않은 실시간자료”이므로 자료 오류 및 표출방식에 따라 값이 다를 수 있음을 명시하였음.
 
 3. API 이용시 준수사항 및 공공정보활용약관 등 관련법에 명시된 내용은 자료 활용시에 준수하여함에 동의하였음. 
+
